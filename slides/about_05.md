@@ -1,5 +1,6 @@
-## Sequel
+##### ホーム画面への追加
 
-* ライブラリだけでなく、"sequel"というコマンドラインツールも提供されている
-* DBに接続して処理を実行したり、migrationファイルの実行や、DBのコピー等が出来るようにようになっている
-  * "rails console" + rake taskみたいな印象
+<small>普通のネイティブアプリと同様に表示される(クリックすると検索結果を保持した状態でウェブサイトが表示される)</small>
+
+<img src="resources/img/screenshot_02.png" height=500px>
+
