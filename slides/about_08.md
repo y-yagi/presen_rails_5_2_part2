@@ -1,6 +1,5 @@
-#### 事例
+#### Progressive Web Apps
 
-* もうすでにキャプチャ貼ってますが、[suumo](https://smp.suumo.jp/)
-* Googleの公式ページに事例として載っている
-  * [Suumo  \|  Web  \|  Google Developers](https://developers.google.com/web/showcase/2016/suumo)
-  * モバイルサイト起動時間が 75% 減少、プッシュ開封率が 31% 上昇 したらしい
+* PWAを作成するのにネイティブアプリを作る技術は不要。普通にウェブサービスを作る技術だけで対応が出来る。
+  * HTTPSじゃないと使えない、等の多少の制限はあり
+* 普通にウェブサービスを作るだけで、ネイティブアプリに近い体験をユーザに提供出来る

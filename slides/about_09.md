@@ -1,5 +1,6 @@
 #### 事例
 
-* [タウンワーク](https://townwork.net/)
-* "通知やホーム画面からのアイコンを導入（ 参考動画 ）することで、ホーム画面アイコンからのコンバージョン率（ アルバイト応募など ）を 213% 増やすことに成功した" らしい
-  * [モバイルに最適化されたユーザー体験第 4 回 : モバイルサイトでアプリ体験を \- Think with Google 日本](http://apac.thinkwithgoogle.com/intl/ja_ALL/articles/optimize-to-mobile-4.html)
+* もうすでにキャプチャ貼ってますが、[suumo](https://smp.suumo.jp/)
+* Googleの公式ページに事例として載っている
+  * [Suumo  \|  Web  \|  Google Developers](https://developers.google.com/web/showcase/2016/suumo)
+  * モバイルサイト起動時間が 75% 減少、プッシュ開封率が 31% 上昇 したらしい
