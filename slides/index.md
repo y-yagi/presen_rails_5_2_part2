@@ -1,3 +1,3 @@
 
-## Progressive Web Apps<br>について
+## Accelerated Mobile Pages
 

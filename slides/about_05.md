@@ -1,6 +1,6 @@
-##### ホーム画面への追加
+#### Accelerated Mobile Pages
 
-<small>普通のネイティブアプリと同様に表示される(クリックすると検索結果を保持した状態でウェブサイトが表示される)</small>
+<small>Googleの調査結果によれば、AMP対応していないページの表示速度の中央値が22秒だったのに対し、AMP対応しているページは0.7秒で表示されるようになっている</small>
 
-<img src="resources/img/screenshot_02.png" height=500px>
+<img src="resources/img/screenshot_03.png" height=500px>
 

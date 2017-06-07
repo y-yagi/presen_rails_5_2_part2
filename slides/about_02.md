@@ -1,4 +1,6 @@
-### Progressive Web Apps
+### Accelerated Mobile Pages
 
-* ざっくりいうと、普通のウェブサービスでもネイティブアプリみたいな事を出来るようにしよう、という技術があり、それに対応したウェブアプリのこと
-* "アプリ"の事を指しているケースと、その"技術"の事を指しているケースの両方あるので、コンテキストから察して下さい
+* GoogleとTwitterが合同で開発
+* モバイルでページを高速に表示するための仕様
+* [Accelerated Mobile Pages Project – AMP](https://www.ampproject.org/ja/)
+  * "Building the future web, together."

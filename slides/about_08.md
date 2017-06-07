@@ -1,5 +1,3 @@
-#### Progressive Web Apps
+#### Accelerated Mobile Pages
 
-* PWAを作成するのにネイティブアプリを作る技術は不要。普通にウェブサービスを作る技術だけで対応が出来る。
-  * HTTPSじゃないと使えない、等の多少の制限はあり
-* 普通にウェブサービスを作るだけで、ネイティブアプリに近い体験をユーザに提供出来る
+<img src="resources/img/screenshot_04.png" height=500px>

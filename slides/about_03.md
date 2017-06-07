@@ -1,7 +1,3 @@
-### 出来るようになること
+#### Accelerated Mobile Pages
 
-* ホーム画面への追加
-* オフラインでの操作
-* プッシュ通知
-* 自動ログイン
-* etc
+<img src="resources/img/screenshot_01.png" height=500px>

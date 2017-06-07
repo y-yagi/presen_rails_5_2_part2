@@ -1,6 +1,5 @@
-#### 事例
+#### Accelerated Mobile Pages
 
-* もうすでにキャプチャ貼ってますが、[suumo](https://smp.suumo.jp/)
-* Googleの公式ページに事例として載っている
-  * [Suumo  \|  Web  \|  Google Developers](https://developers.google.com/web/showcase/2016/suumo)
-  * モバイルサイト起動時間が 75% 減少、プッシュ開封率が 31% 上昇 したらしい
+* 今のところ速くなるのはGoogleの検索結果だけ
+* ただ、Yahoo Japan、Baidu、Sogouも対応すると宣言している
+  * [Yahoo Japan、バイドゥ、ソゴウがAMP対応に。10億以上のアジアのユーザーに向け、展開。](http://www.seojapan.com/blog/amp-accelerated-mobile-pages-roll-1-billion-people-asia)
