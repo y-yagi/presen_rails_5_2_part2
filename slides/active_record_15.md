@@ -1,4 +1,4 @@
-#### [Refactor Active Record to let Arel manage bind params](https://github.com/rails/rails/commit/213796fb4936dce1da2f0c097a054e1af5c25c2c)
+#### New error class
 
-* Active Recordで行っていたbind paramsの管理をArelで行うようリファクタリング
-* ユーザに直接影響がある事はそんなに無い筈(private APIを使ってなければ)だが、bind parameterいじって何かしてたりしたらきをつけて
+* [Add new error class `StatementTimeout` which will be raised when statement timeout exceeded](https://github.com/rails/rails/pull/31129)
+* [Add new error class `QueryCanceled` which will be raised when canceling statement due to user request](https://github.com/rails/rails/pull/31235)
