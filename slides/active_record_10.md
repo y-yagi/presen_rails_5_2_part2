@@ -8,5 +8,5 @@ User Load (0.2ms)  SELECT "users".* FROM "users"
 ↳ app/views/users/index.html.erb:14
 ```
 
-* 要は[active-record-query-trace](https://github.com/ruckus/active-record-query-trace)
+* ようは[active-record-query-trace](https://github.com/ruckus/active-record-query-trace)
 * 表示されるのはserverのログでだけ(rails consoleでは出ない)

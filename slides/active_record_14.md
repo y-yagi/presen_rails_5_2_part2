@@ -1,6 +1,6 @@
 #### [Add a #up_only method to migrations](https://github.com/rails/rails/pull/31082)
 
-* migrationに`up`のときだけ使用出来る`up_only`メソッドを追加
+* migrationに`up`のときだけ使用出来る`up_only`メソッドが追加された
 
 ```ruby
 class AddPublishedToPosts < ActiveRecord::Migration[5.2]
