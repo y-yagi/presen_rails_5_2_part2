@@ -1,6 +1,6 @@
 #### [Add expiry metadata to Cookies and freshen expires option to support duration](https://github.com/rails/rails/pull/30121)
 
-* cookieに有効期限が指定出来るようになった
+* signed/encrypted cookiesに有効期限が指定出来るようになった
 
 
 ```ruby
